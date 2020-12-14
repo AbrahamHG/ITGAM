@@ -8,7 +8,7 @@
   "profile": {
     "name": "typicode"
   },
-  "Anime";
+  "Anime";[
   {
             "nombre": "Naruto: Shippuuden",
             "description": "Han pasado dos años y medio desde que Naruto Uzumaki dejó Konohagakure, la Aldea Oculta de la Hoja, para un entrenamiento intenso después de eventos que alimentaron su deseo de ser más fuerte. Ahora Akatsuki, la misteriosa organización de ninjas rebeldes de élite, está cerrando en su gran plan que puede amenazar la seguridad de todo el mundo shinobi. ",
@@ -117,5 +117,6 @@
             "studio": "Madhouse",
             "img": "https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg"
         }
+]
   
 }

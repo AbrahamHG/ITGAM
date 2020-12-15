@@ -17,7 +17,7 @@
             "episode": 500,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Studio Pierrot",
-            "img": "https://www.hdwallpaper.nu/wp-content/uploads/2015/10/Naruto_Shippuden_32.jpg"
+            "img": "http://s.sidereel.com/tv_shows/13063/giant_2x/naruto_shippuden.jpg"
         },
         {
             "name": "One Piece",
@@ -26,7 +26,7 @@
             "episode": 700,
              "categorie":"Animation | Drama | Adventure",
             "studio":"Toei Animation",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/6/73245.jpg"
+            "img": "https://i.ytimg.com/vi/YTFadzLvTwA/maxresdefault.jpg"
         },
         {
             "name": "Attack on Titan",
@@ -35,7 +35,7 @@
             "episode": 500,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Wit Studio",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/10/47347.jpg"
+            "img": "https://s3.amazonaws.com/media-us-standrad/wp-content/uploads/2017/04/09195127/9781632363275.jpeg"
         },
         {
             "name": "Monster",
@@ -44,7 +44,7 @@
             "episode": 70,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/10/18793.jpg"
+            "img": "http://images6.fanpop.com/image/answers/3209000/3209836_1365860759025.16res_225_320.jpg"
         },
         {
             "name": "Death Note",
@@ -53,7 +53,7 @@
             "episode": 500,
             "categorie":"Animation | Adventure",
             "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/9/9453.jpg"
+            "img": "https://vignette.wikia.nocookie.net/deathnote/images/7/76/DEATH_NOTE_anime.jpg/revision/latest?cb=20170720215429"
         },
         {
             "name": "Violet Evergarden",
@@ -62,7 +62,7 @@
             "episode": 14,
             "categorie":"Fantasy | Drama ",
             "studio":"Kyoto Animation",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/1329/90618.jpg"
+            "img": "https://i.pinimg.com/originals/40/60/2e/40602ea389aa3bdea5bdffa72a67c2f7.jpg"
         },
         {
             "name": "Tokyo Ghoul",
@@ -71,7 +71,7 @@
             "episode": 12,
             "categorie":"Action | Mystery",
             "studio":"Studio Pierrot",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/5/64449.jpg"
+            "img": "https://images4.alphacoders.com/554/thumb-1920-554421.jpg"
         },
         {
             "name": "Black Clover",
@@ -80,7 +80,7 @@
             "episode": 51,
             "categorie":"Magic | Shounen | Adventure",
             "studio":"Studio Pierrot",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/2/88336.jpg"
+            "img": "https://images.alphacoders.com/910/thumb-1920-910281.jpg"
         },
         {
             "name": "Sword Art Online",
@@ -89,7 +89,7 @@
             "episode": 25,
             "categorie":"Drama | Adventure",
             "studio":"A-1 Pictures",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/11/39717.jpg"
+            "img": "https://static.zerochan.net/Sword.Art.Online:.Fatal.Bullet.full.2214565.jpg"
         },
         {
             "name": "Nanatsu no Taizai",
@@ -98,7 +98,7 @@
             "episode": 24,
             "categorie":"Animation | Drama | Adventure",
             "studio":"A-1 Pictures",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/8/65409.jpg"
+            "img": "https://1.bp.blogspot.com/-J15I9kj6v8M/Xb9uetA79OI/AAAAAAAAEJk/RGzQEE0jt5glaO8PYSLAsuwgwXKnM8yXwCLcBGAsYHQ/s1600/hh.jpg"
         },
         {
             "name": "Kiseijuu: Sei no Kakuritsu",
@@ -107,7 +107,7 @@
             "episode": 24,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/3/73178.jpg"
+            "img": "https://1.bp.blogspot.com/-ayM6qR26tjs/XfKcIQA1FxI/AAAAAAAAw3U/oPDsM4eKDd4EpVXchQ98COL3sUi-7w1NgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Parasyte-anime-netflix-banner.jpg"
         },
         {
             "name": "Hunter x Hunter (2011)",
@@ -116,7 +116,8 @@
             "episode": 148,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg"
+            "img": "http://bentobyte.co/wp-content/uploads/2014/09/hunterx.jpg
+"
         }
 
     ]

@@ -1,4 +1,15 @@
-[
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+	"animales":
+	[
   {
 	"id": 1,
 	"Tipo": "Perro",
@@ -151,3 +162,4 @@
 }
 
 ]
+}
